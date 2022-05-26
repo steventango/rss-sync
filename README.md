@@ -1,5 +1,5 @@
 # rss-sync
-Simple utility for syncing RSS Feed from URLL with local RSS file.
+Simple utility for syncing RSS Feed from URL with local RSS file.
 
 ## Installation
 ```sh
