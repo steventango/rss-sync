@@ -3,7 +3,7 @@ Simple utility for syncing RSS Feed from URL with local RSS file.
 
 ## Installation
 ```sh
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Usage:
