@@ -1,4 +1,5 @@
 # rss-sync
+Simple utility for syncing RSS Feed from URLL with local RSS file.
 
 ## Installation
 ```sh
@@ -7,7 +8,7 @@ pip install -r requirements.txt
 
 ## Usage:
 ```sh
-usage: rss-sync.py [-h] url
+python3 rss-sync.py [-h] url
 
 positional arguments:
   url         RSS feed URL
